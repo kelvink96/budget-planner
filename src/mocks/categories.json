@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "title": "Housing",
+      "description": "The amount you pay to have a roof over your head constitutes a housing cost. This includes everything from rent or mortgage payments to property taxes, HOA dues, and home maintenance costs. For most budgeters, this category is by far the biggest. ",
+      "allocation": "25-35 percent"
+    },
+    {
+      "title": "Transportation ",
+      "description": "Regardless of your location or lifestyle, everyone needs to get from point A to point B. Typically, this budget category includes car payments, registration and DMV fees, gas, maintenance, parking, tolls, ridesharing costs, and public transit. ",
+      "allocation": "10-15 percent"
+    },
+    {
+      "title": "Food",
+      "description": "While food is a survival necessity for humans, it’s also a budget area for the savvy financial planner. Whether you’re grocery shopping and cooking at home, or sampling the culinary scene in your geographic locale, it’s crucial to account for food expenses. Many budgeters include grocery shopping and dining out in this category (e.g., restaurant meals, work lunches, food delivery, etc.)",
+      "allocation": "10-15 percent"
+    },
+    {
+      "title": "Utilities",
+      "description": "Utilities generally include your gas, electricity, water, and sewage bills. Households can also factor in their “connectivity” expenses, like your cell phone bill, cable or streaming services, and internet expenses.",
+      "allocation": "5-10 percent"
+    },
+    {
+      "title": "Insurance",
+      "description": "The insurance budget category depends very much on your own, individual preferences. \n\nMany budgeters will categorize insurance with what exactly they’re insuring. Health insurance, for example, would fall under “Healthcare.” The insurance on your vehicle would fall under “Transportation,” and both are totally valid — do whatever helps you feel most organized. ",
+      "allocation": "10-25 percent"
+    },
+    {
+      "title": "Medical & Healthcare",
+      "description": "As the old adage goes, “health is wealth.” Maintaining both your health and overall well-being are essential, so it’s critical to include enough in your budget to cover these costs. If you plan for routine medical care, like yearly physicals, dental appointments, and mental health care, you’ll live a much healthier life in the long run.",
+      "allocation": "5-10 percent"
+    },
+    {
+      "title": "Saving",
+      "description": "his often-overlooked (or dare we say, underfunded?) home budget category is arguably the most important. Although saving money may not have an immediate impact on your life day-to-day, it can position you toward positive financial health down the road.",
+      "allocation": "10-20 percent"
+    },
+    {
+      "title": "Investment",
+      "description": "Refers to any mechanism used for generating future income. This includes the purchase of bonds, stocks, or real estate property, among other examples. Additionally, purchasing a property that can be used to produce goods can be considered an investment.",
+      "allocation": "10-20 percent"
+    },
+    {
+      "title": "Debt Payment",
+      "description": "This budget category can also be used to pay down any high-interest debt you’re carrying, such as credit card bills, personal loans, or student loans.",
+      "allocation": "5-10 percent"
+    },
+    {
+      "title": "Debt Payment",
+      "description": "This budget category can also be used to pay down any high-interest debt you’re carrying, such as credit card bills, personal loans, or student loans.",
+      "allocation": "5-10 percent"
+    },
+    {
+      "title": "Personal Spending",
+      "description": "This category is a catch-all for anything that could be considered a personal care or “lifestyle” expense. Because some personal care products are essential, such as soap and laundry detergent, you might want to include those in your food budget category. After all, you probably buy those with your other groceries.",
+      "allocation": "5-10 percent"
+    },
+    {
+      "title": "Recreation & Entertainment",
+      "description": "It’s extremely important to have fun — we’re definitely advocates for a good time! Your recreation and entertainment category is how much you’ll spend for your leisure time, and it’s best to be mindful and moderate in this particular category.",
+      "allocation": "5-10 percent"
+    },
+    {
+      "title": "Miscellaneous",
+      "description": "Finally, this home budget category is reserved for anything that isn’t already covered in your basic budget categories. It can also be used as an “overflow” category when you need a little extra somewhere else.",
+      "allocation": "5-10 percent"
+    }
+  ]
+}

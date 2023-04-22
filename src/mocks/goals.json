@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "title": "Holiday trip",
+      "icon": "trip",
+      "budget": "13,456"
+    },
+    {
+      "title": "Renovation",
+      "icon": "paint",
+      "budget": "4,145"
+    },
+    {
+      "title": "Xbox",
+      "icon": "game",
+      "budget": "745"
+    },
+    {
+      "title": "Birthday",
+      "icon": "cake",
+      "budget": "188"
+    }
+  ]
+}
